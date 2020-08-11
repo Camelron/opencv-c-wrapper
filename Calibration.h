@@ -1,6 +1,6 @@
 #pragma once
 
-#include <opencv4/opencv.hpp>
+#include <opencv2/opencv.hpp>
 
 typedef struct {
 	int width;
